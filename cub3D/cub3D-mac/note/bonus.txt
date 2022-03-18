@@ -1,0 +1,15 @@
+Faits :
+1- Minimap/ HUD
+2- Collision mur
+3- Collision sprite
+
+A faire : 
+Son
+Effet d'ombres
+Plusieurs Sprites
+Texture sol plafond voire skybox
+
+Bouton qui change l'orientation des textures
+Effet bourré
+bouton qui change le sprite
+combinaison de touches

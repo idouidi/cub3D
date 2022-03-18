@@ -1,0 +1,24 @@
+
+
+
+
+            /******************************\
+
+            #~~~~~~~~~~~~~~To DO:~~~~~~~~~~#
+
+            \*******************************/
+
+X limites de la minimap (bordures max / bordure min)
+X taille min/max de la fenetre (300x 300 par ex) ==> fonction mlx pour la VM
+X message d'erreur pour chaque retour d'erreur
+X assombrir au loin
+X LA NEIGE
+X Mouvement bloqué en position initiale
+X perso qui depasse un peu trop de la map visuellement
+X revoir le parsing avec un \n en plein milieu de map
+X angle 45 degre choix du rayon le plus court incorecte
+X texture buguee en biais
+X Free (gestion des leaks)
+X /n bug
+X norminette
+X faire en sorte qu'il compile sur la VM
